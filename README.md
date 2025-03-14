@@ -25,24 +25,24 @@ Hey there! I'm a **Full-Stack Web Developer** who loves building scalable web ap
 [![TypeScript](https://img.shields.io/badge/TypeScript-1572B6?style=flat-square&logo=typescript&logoColor=white)](#)
 
 #### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-339933?style=flat-square&logo=vue.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-339933?style=flat-square&logo=nuxt&logoColor=white)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](#)
+[![Vue.js](https://img.shields.io/badge/Vue.js-339933?style=flat-square&logo=vue.js&logoColor=white)](#)
+[![Nuxt.js](https://img.shields.io/badge/Nuxt.js-339933?style=flat-square&logo=nuxt&logoColor=white)](#)
 
 
 #### Tools and Technologies
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2496ED?style=flat-square&logo=postgresql&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2496ED?style=flat-square&logo=postgresql&logoColor=black)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](#)
 
 <p>I use the following tech for my DevOps needs only. Not well-versed in these.</p>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon&logoColor=orange)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-F05032?style=flat-square&logo=jenkins&logoColor=white)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](#)
+[![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon&logoColor=orange)](#)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](#)
+[![Jenkins](https://img.shields.io/badge/Jenkins-F05032?style=flat-square&logo=jenkins&logoColor=white)](#)
 ---
 
 ### 🔥 What I'm Currently Working On
