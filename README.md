@@ -60,8 +60,13 @@ Hey there! I'm a **Full-Stack Web Developer** who loves building scalable web ap
 
 ---
 
-### 📫 Connect With Me
+### 💼 Checkout My Experience on LinkedIn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ojaswiat)
+
+---
+
+### 📫 Connect With Me
+
 [![X](https://img.shields.io/badge/Twitter-000000.svg?style=flat-square&logo=x&logoColor=white)](https://twitter.com/ojaswiat)
 [![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/ojaswiat)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=white)](https://ojaswiat.com)
