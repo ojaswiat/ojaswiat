@@ -46,7 +46,7 @@ Hey there! I'm a **Full-Stack Web Developer** who loves building scalable web ap
 
 ### 🔥 What I'm Currently Working On
 - 💼 Juggling between office work and personal life 👾
-- 🚀 Building an innovative projects using React, Next, Nuxt, Supabase, MongoDB, and Node.js
+- 🚀 Building projects using React, Next, Nuxt, Supabase, MongoDB, and Node.js
 - 🌱 Exploring **AI/ML integration** with web applications
 - 📚 Learning **Data Science** and **Machine Learning** in whatever time I can squeeze
 - 💡 Contributing to **open-source projects** and collaborating with the developer community
