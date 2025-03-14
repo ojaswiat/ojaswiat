@@ -1,7 +1,8 @@
+<base target="_blank">
 ## Hi there! 👋 I'm Ojas
 ![Profile Views](https://komarev.com/ghpvc/?username=ojaswiat&color=blueviolet)
 
-<p><a href="https://drive.google.com/file/d/1p97uFrJnncKXBIx4SA7cap0zfbZDb1vj/view" target="_blank">View Resume</a></p>
+[View Resume](https://drive.google.com/file/d/1p97uFrJnncKXBIx4SA7cap0zfbZDb1vj/view)
 
 
 ### Full-Stack Web Developer | Tech Enthusiast | Problem Solver | Blog Writer
@@ -18,10 +19,10 @@ Hey there! I'm a **Full-Stack Web Developer** who loves building scalable web ap
 ### 🛠️ Tech Skills & Tools
 
 #### Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-1572B6?style=flat-square&logo=typescript&logoColor=white)
+![[HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)]()
+![[CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)]()
+![[JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)]()
+![[TypeScript](https://img.shields.io/badge/TypeScript-1572B6?style=flat-square&logo=typescript&logoColor=white)]()
 
 #### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -84,7 +85,7 @@ Hey there! I'm a **Full-Stack Web Developer** who loves building scalable web ap
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=white)](https://ojaswiat.com)
 
 ---
-<p><a href="https://drive.google.com/file/d/1p97uFrJnncKXBIx4SA7cap0zfbZDb1vj/view" target="_blank">View Resume</a></p>
+[View Resume](https://drive.google.com/file/d/1p97uFrJnncKXBIx4SA7cap0zfbZDb1vj/view)
 
 ### 📊 GitHub Stats & Activity
 It ain't much but it's honest work! (Most of my repos are private :P)
