@@ -42,6 +42,8 @@ Hey there! I'm a **Full-Stack Web Developer** who loves building scalable web ap
 [![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon&logoColor=orange)](#)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](#)
 [![Jenkins](https://img.shields.io/badge/Jenkins-F05032?style=flat-square&logo=jenkins&logoColor=white)](#)
+
+
 ---
 
 ### 🔥 What I'm Currently Working On
@@ -65,26 +67,22 @@ Hey there! I'm a **Full-Stack Web Developer** who loves building scalable web ap
 ### 💼 Checkout My Experience on LinkedIn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ojaswiat)
 
----
-
 ### 📖 Read my Blogs
 [![Blogs](https://img.shields.io/badge/Dev.to-%230077B5.svg?style=flat-square&logo=devto&logoColor=white)](https://dev.to/ojaswiat)
-
----
 
 ### 📫 Connect With Me
 
 [![X](https://img.shields.io/badge/Twitter-000000.svg?style=flat-square&logo=x&logoColor=white)](https://twitter.com/ojaswiat)
 [![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/ojaswiat)
 
----
-
 ### 🌐 Visit my Website for more Information
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=white)](https://ojaswiat.com)
 
----
+
 [View Resume](https://drive.google.com/file/d/1p97uFrJnncKXBIx4SA7cap0zfbZDb1vj/view)
+
+---
 
 ### 📊 GitHub Stats & Activity
 It ain't much but it's honest work! (Most of my repos are private :P)
