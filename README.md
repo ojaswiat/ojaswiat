@@ -1,5 +1,5 @@
 ## Hi there! 👋 I'm Ojas
-![Profile Views](https://komarev.com/ghpvc/?username=ojaswiat&color=blueviolet)
+[![Profile Views](https://komarev.com/ghpvc/?username=ojaswiat&color=blueviolet)](#)
 
 [View Resume](https://drive.google.com/file/d/1p97uFrJnncKXBIx4SA7cap0zfbZDb1vj/view)
 
