@@ -1,7 +1,7 @@
 ## Hi there! 👋 I'm Ojas
 [![Profile Views](https://komarev.com/ghpvc/?username=ojaswiat&color=blueviolet)](#)
 
-[View Resume](https://drive.google.com/file/d/1p97uFrJnncKXBIx4SA7cap0zfbZDb1vj/view)
+[View Resume](https://drive.google.com/drive/folders/18Bv7uAVokjpqbO3osydc53LChxN0G2qI?usp=drive_link)
 
 
 ### Full-Stack Web Developer | Tech Enthusiast | Problem Solver | Blog Writer
@@ -81,7 +81,7 @@ Hey there! I'm a **Full-Stack Web Developer** who loves building scalable web ap
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=white)](https://ojaswiat.com)
 
 
-[View Resume](https://drive.google.com/file/d/1p97uFrJnncKXBIx4SA7cap0zfbZDb1vj/view)
+[View Resume](https://drive.google.com/drive/folders/18Bv7uAVokjpqbO3osydc53LChxN0G2qI?usp=drive_link)
 
 ---
 
