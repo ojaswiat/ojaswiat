@@ -6,7 +6,7 @@
 
 ### Full-Stack Web Developer | Tech Enthusiast | Problem Solver | Blog Writer
 
-![GitHub Banner](https://ik.imagekit.io/ojaswiat/github-banner.png)
+![GitHub Banner](https://ik.imagekit.io/ojaswiat/ojaswiat-com/images/meta/github-banner.png)
 
 ---
 
