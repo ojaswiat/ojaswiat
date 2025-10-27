@@ -1,7 +1,7 @@
 ## Hi there! 👋 I'm Ojas
 [![Profile Views](https://komarev.com/ghpvc/?username=ojaswiat&color=blueviolet)](#)
 
-[View Resume](https://ik.imagekit.io/ojaswiat/ojaswi-athghara-resume.pdf?updatedAt=1761017708702)
+[View Resume](https://ik.imagekit.io/ojaswiat/ojaswi-athghara-resume.pdf)
 
 
 ### Full-Stack Web Developer | Tech Enthusiast | Problem Solver | Blog Writer
