@@ -7,11 +7,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=I'm+Ojaswi+Athghara...;Full+Stack+Developer...;Agentic+AI+Engineer...;AIOps%2C+LLMOps%2C+MLOps..." alt="Typing SVG" />
 </a>
 <br/>
-<a href="https://ik.imagekit.io/ojaswiat/ojaswi-athghara-resume.pdf"><img src="https://img.shields.io/badge/Resume-0a0f0a?style=for-the-badge&logo=google-docs&logoColor=00ff41" alt="Resume" /></a>
-<a href="https://ojaswiat.com"><img src="https://img.shields.io/badge/Website-0a0f0a?style=for-the-badge&logo=google-chrome&logoColor=00ff41" alt="Website" /></a>
-<a href="https://linkedin.com/in/ojaswiat"><img src="https://img.shields.io/badge/LinkedIn-0a0f0a?style=for-the-badge&logo=logmein&logoColor=00ff41" alt="LinkedIn" /></a>
-<a href="https://ojaswiat.com/blog"><img src="https://img.shields.io/badge/Blog-0a0f0a?style=for-the-badge&logo=hashnode&logoColor=00ff41" alt="Blog" /></a>
-<a href="mailto:ojaswiat@gmail.com"><img src="https://img.shields.io/badge/Mail-0a0f0a?style=for-the-badge&logo=gmail&logoColor=00ff41" alt="Mail" /></a>
+<a target="_blank" href="https://ik.imagekit.io/ojaswiat/ojaswi-athghara-resume.pdf"><img src="https://img.shields.io/badge/Resume-0a0f0a?style=for-the-badge&logo=google-docs&logoColor=00ff41" alt="Resume" /></a>
+<a target="_blank" href="https://ojaswiat.com"><img src="https://img.shields.io/badge/Website-0a0f0a?style=for-the-badge&logo=google-chrome&logoColor=00ff41" alt="Website" /></a>
+<a target="_blank" href="https://linkedin.com/in/ojaswiat"><img src="https://img.shields.io/badge/LinkedIn-0a0f0a?style=for-the-badge&logo=logmein&logoColor=00ff41" alt="LinkedIn" /></a>
+<a target="_blank" href="https://ojaswiat.com/blog"><img src="https://img.shields.io/badge/Blog-0a0f0a?style=for-the-badge&logo=hashnode&logoColor=00ff41" alt="Blog" /></a>
+<a target="_blank" href="mailto:ojaswiat@gmail.com"><img src="https://img.shields.io/badge/Mail-0a0f0a?style=for-the-badge&logo=gmail&logoColor=00ff41" alt="Mail" /></a>
 </div>
 
 ```console
@@ -208,11 +208,11 @@ I'm looking for opportunities in the following roles:
 ```
 
 <div align="center">
-<a href="https://ik.imagekit.io/ojaswiat/ojaswi-athghara-resume.pdf"><img src="https://img.shields.io/badge/Resume-0a0f0a?style=for-the-badge&logo=google-docs&logoColor=00ff41" alt="Resume" /></a>
-<a href="https://linkedin.com/in/ojaswiat"><img src="https://img.shields.io/badge/LinkedIn-0a0f0a?style=for-the-badge&logo=logmein&logoColor=00ff41" alt="LinkedIn" /></a>
-<a href="https://ojaswiat.com"><img src="https://img.shields.io/badge/Website-0a0f0a?style=for-the-badge&logo=google-chrome&logoColor=00ff41" alt="Website" /></a>
-<a href="https://ojaswiat.com/blog"><img src="https://img.shields.io/badge/Blog-0a0f0a?style=for-the-badge&logo=hashnode&logoColor=00ff41" alt="Blog" /></a>
-<a href="mailto:ojaswiat@gmail.com"><img src="https://img.shields.io/badge/Mail-0a0f0a?style=for-the-badge&logo=gmail&logoColor=00ff41" alt="Mail" /></a>
+<a target="_blank" href="https://ik.imagekit.io/ojaswiat/ojaswi-athghara-resume.pdf"><img src="https://img.shields.io/badge/Resume-0a0f0a?style=for-the-badge&logo=google-docs&logoColor=00ff41" alt="Resume" /></a>
+<a target="_blank" href="https://ojaswiat.com"><img src="https://img.shields.io/badge/Website-0a0f0a?style=for-the-badge&logo=google-chrome&logoColor=00ff41" alt="Website" /></a>
+<a target="_blank" href="https://linkedin.com/in/ojaswiat"><img src="https://img.shields.io/badge/LinkedIn-0a0f0a?style=for-the-badge&logo=logmein&logoColor=00ff41" alt="LinkedIn" /></a>
+<a target="_blank" href="https://ojaswiat.com/blog"><img src="https://img.shields.io/badge/Blog-0a0f0a?style=for-the-badge&logo=hashnode&logoColor=00ff41" alt="Blog" /></a>
+<a target="_blank" href="mailto:ojaswiat@gmail.com"><img src="https://img.shields.io/badge/Mail-0a0f0a?style=for-the-badge&logo=gmail&logoColor=00ff41" alt="Mail" /></a>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=00ff41&text=Thanks%20for%20scrolling%20this%20far...%20%20You're%20awesome!&section=footer&fontSize=14&reversal=true&fontAlignY=70" alt="Footer Wave" />
