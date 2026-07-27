@@ -163,7 +163,7 @@ status: "Open to opportunities"
 
 ```markdown
 ▸ Agentic AI / RAG / LLM Tooling
-▸ M.Sc. Advanced Data Science & AI @ Liverpool
+▸ M.Sc. Advanced Data Science & AI @ The University of Liverpool, England
 ▸ Production ML systems & MLOps
 ▸ Roles Seeking: ML Engineer, AI Engineer, AI Ops Engineer, Agentic AI Engineer
 ```
