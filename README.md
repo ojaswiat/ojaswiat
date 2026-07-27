@@ -1,218 +1,183 @@
-![](https://github-view-counter.vercel.app/api?username=ojaswiat&color=00ff41&bgColor=000000&abbreviated=true&style=square)
+<div align="center">
 
-<pre style="background:#0a0f0a;display:grid;justify-content:center;width:100%;padding:20px;border:1px solid #00ff41;border-radius:0px;font-family:'Consolas','SF Mono',monospace;font-size:12px;line-height:1.6;overflow-x:auto;">
-<a href="https://git.io/typing-svg" style="text-alignment:center"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=I'm+Ojaswi+Athghara...;Full+Stack+Developer...;Agentic+AI+Engineer...;AIOps%2C+LLMOps%2C+MLOps..." alt="Typing SVG"/></a>
+<img src="https://github-view-counter.vercel.app/api?username=ojaswiat&color=00ff41&bgColor=000000&abbreviated=true&style=square" alt="Profile views" />
+<br/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=I'm+Ojaswi+Athghara...;Full+Stack+Developer...;Agentic+AI+Engineer...;AIOps%2C+LLMOps%2C+MLOps..." alt="Typing SVG" />
+</a>
 
-<span style="display:flex;gap:16px;align-items:center;justify-content:center;">
-<a style="color:#00ff41" href="https://ojaswiat.com">Website</a> ·
-<a style="color:#00ff41" href="https://linkedin.com/in/ojaswiat">LinkedIn</a> ·
-<a style="color:#00ff41" href="https://ojaswiat.com/blog">Blog</a> ·
-<a style="color:#00ff41" href="mailto:ojaswiat@gmail.com">Mail</a>
-</span>
-</pre>
+<a href="https://ojaswiat.com"><img src="https://img.shields.io/badge/Website-0a0f0a?style=for-the-badge&logo=google-chrome&logoColor=00ff41" alt="Website" /></a>
+<a href="https://linkedin.com/in/ojaswiat"><img src="https://img.shields.io/badge/LinkedIn-0a0f0a?style=for-the-badge&logo=linkedin&logoColor=00ff41" alt="LinkedIn" /></a>
+<a href="https://ojaswiat.com/blog"><img src="https://img.shields.io/badge/Blog-0a0f0a?style=for-the-badge&logo=hashnode&logoColor=00ff41" alt="Blog" /></a>
+<a href="mailto:ojaswiat@gmail.com"><img src="https://img.shields.io/badge/Mail-0a0f0a?style=for-the-badge&logo=gmail&logoColor=00ff41" alt="Mail" /></a>
 
-<pre style="background:#0a0f0a;color:#00ff41;padding:20px;border:1px solid #00ff41;border-radius:0px;font-family:'Consolas','SF Mono',monospace;font-size:12px;line-height:1.6;overflow-x:auto;width:100%">
-<span style="color:#00ff41">┌──(ojaswiat@github)-[~/profile]</span>
-<span style="color:#00ff41">└─$</span> <span style="color:#ffff00">whoami</span>
-<span style="color:#00cc33">ojaswi-athghara</span>
-
-<span style="color:#00ff41">┌──(ojaswiat@github)-[~/profile]</span>
-<span style="color:#00ff41">└─$</span> <span style="color:#ffff00">cat role.txt</span>
-<span style="color:#00cc33">Full-Stack Developer</span>  <span style="color:#666">|</span>  <span style="color:#00cc33">AI/ML Engineer</span>  <span style="color:#666">|</span>  <span style="color:#00cc33">M.Sc. Data Science & AI</span>
-
-<span style="color:#00ff41">┌──(ojaswiat@github)-[~/profile]</span>
-<span style="color:#00ff41">└─$</span> <span style="color:#ffff00">cat status.txt</span>
-<span style="color:#ff6600">[OPEN TO OPPORTUNITIES]</span>  <span style="color:#666">|</span>  <span style="color:#ffff00">4+ years exp</span>  <span style="color:#666">|</span>  <span style="color:#ffff00">UK</span>
-
-<span style="color:#00ff41">┌──(ojaswiat@github)-[~/profile]</span>
-<span style="color:#00ff41">└─$</span> <span style="color:#ffff00">cat tldr.txt</span>
-<span style="text-alignment:center">
-┌───────────────────────────────────────────────────────────────────────────────┐
-|                                                                               |
-|   ██████  ███████ ██    ██ ███████ ██       ██████  ██████  ███████ ██████    | 
-|   ██   ██ ██      ██    ██ ██      ██      ██    ██ ██   ██ ██      ██   ██   |
-|   ██   ██ █████   ██    ██ █████   ██      ██    ██ ██████  █████   ██████    |
-|   ██   ██ ██       ██  ██  ██      ██      ██    ██ ██      ██      ██   ██   |
-|   ██████  ███████   ████   ███████ ███████  ██████  ██      ███████ ██   ██   |
-|                                                                               |
-|       Full-Stack Dev → AI/ML Engineer → M.Sc. Data Science & AI               |
-│         4+ yrs exp │ UK-based │ Remote-friendly │ Open to work                |
-|                                                                               |
-└───────────────────────────────────────────────────────────────────────────────┘                                                                            
-</span>
-</pre>
-
----
-
-<pre style="background:#0a0f0a;color:#00ff41;padding:20px;border:1px solid #00ff41;border-radius:0px;font-family:'Consolas','SF Mono',monospace;font-size:12px;line-height:1.6;
-overflow-x:auto;width:100%">
-<div style="display:flex;gap:16px;flex-wrap:wrap">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ojaswiat&theme=github_dark&animation=draw&hide_border=true" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ojaswiat&theme=github_dark&hide_border=true" height="165">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ojaswiat&theme=github_dark&animation=draw&hide_border=true" height="165">
 </div>
-</pre>
+
+```console
+┌──(ojaswiat@github)-[~/profile]
+└─$ whoami
+ojaswi-athghara
+
+┌──(ojaswiat@github)-[~/profile]
+└─$ cat role.txt
+Full-Stack Developer  |  AI/ML Engineer  |  M.Sc. Data Science & AI
+
+┌──(ojaswiat@github)-[~/profile]
+└─$ cat status.txt
+[OPEN TO OPPORTUNITIES]  |  4+ years exp  |  UK
+
+┌──(ojaswiat@github)-[~/profile]
+└─$ cat tldr.txt
+```
+
+```
+┌───────────────────────────────────────────────────────────────────────────────┐
+│                                                                               │
+│   ██████  ███████ ██    ██ ███████ ██       ██████  ██████  ███████ ██████    │
+│   ██   ██ ██      ██    ██ ██      ██      ██    ██ ██   ██ ██      ██   ██   │
+│   ██   ██ █████   ██    ██ █████   ██      ██    ██ ██████  █████   ██████    │
+│   ██   ██ ██       ██  ██  ██      ██      ██    ██ ██      ██      ██   ██   │
+│   ██████  ███████   ████   ███████ ███████  ██████  ██      ███████ ██   ██   │
+│                                                                               │
+│       Full-Stack Dev → AI/ML Engineer → M.Sc. Data Science & AI               │
+│         4+ yrs exp │ UK-based │ Remote-friendly │ Open to work                │
+│                                                                               │
+└───────────────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-<pre style="background:#0a0f0a;color:#00ff41;padding:20px;border:1px solid #00ff41;border-radius:0px;font-family:'Consolas','SF Mono',monospace;font-size:12px;line-height:1.6;
-overflow-x:auto;width:100%">
-<span style="text-transform:uppercase;font-size:16px;overflow-x:auto;">
-Who Am I?
-</span>
-<span style="color:#00ff41">┌──(ojaswiat@github)-[~/profile]</span>
-<span style="color:#00ff41">└─$</span> <span style="color:#ffff00">cat profile.yaml</span>
-<pre style="background:#2f2f2f;margin-top:8px;border-radius:0px">
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ojaswiat&theme=github_dark&animation=draw&hide_border=true" height="165" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ojaswiat&theme=github_dark&animation=draw&hide_border=true" height="165" alt="Profile details" />
+
+</div>
+
+---
+
+## WHO AM I?
+
+```console
+┌──(ojaswiat@github)-[~/profile]
+└─$ cat profile.yaml
+```
+
+```yaml
 name: "Ojaswi Athghara"
 title: "Full-Stack Developer | AI/ML Engineer"
 location: "UK | Remote-friendly"
 experience: "4+ years startup + enterprise"
 education: "M.Sc. Advanced Data Science & AI — University of Liverpool (2026)"
 status: "Open to opportunities"
-</pre>
-<span style="color:#00ff41">┌──(ojaswiat@github)-[~/profile]</span>
-<span style="color:#00ff41">└─$</span> <span style="color:#ffff00">cat summary.txt</span>
-<pre style="background:#2f2f2f;margin-top:8px;border-radius:0px">
-Collaborative software engineer with 4+ years driving DevOps and AIOps at scale. Strong ownership, detail-oriented, agile coordination. Built automated deployment pipelines, executed RCA, maintained scalable cloud infrastructure. Currently bridging production engineering with applied ML via M.Sc. Advanced Data Science & AI.
-</pre>
-</pre>
+```
+
+```console
+┌──(ojaswiat@github)-[~/profile]
+└─$ cat summary.txt
+```
+
+> Collaborative software engineer with 4+ years driving DevOps and AIOps at scale. Strong ownership, detail-oriented, agile coordination. Built automated deployment pipelines, executed RCA, maintained scalable cloud infrastructure. Currently bridging production engineering with applied ML via M.Sc. Advanced Data Science & AI.
 
 ---
 
-<pre style="background:#0a0f0a;color:#00ff41;padding:20px;border:1px solid #00ff41;border-radius:0px;font-family:'Consolas','SF Mono',monospace;font-size:12px;line-height:1.6;
-overflow-x:auto;width:100%">
-<span style="text-transform:uppercase;font-size:16px;overflow-x:auto;">
-My Engineering DNA
-</span>
-<table style="padding:0;margin:0;border-style:solid;border-width:1px;border-color:#00ff41;border-radius:0px;">
-<tr>
-  <td style="color:#00ff41;;font-family:'Consolas','SF Mono',monospace;font-size:12px;line-height:1.6;overflow-x:auto;border-right:solid;border-width:1px">Core Philosophy</td>
-  <td style="color:#00ff41;;font-family:'Consolas','SF Mono',monospace;font-size:12px;line-height:1.6;overflow-x:auto;">Build reliable systems · Ship fast · Learn faster</td>
-</tr>
-<tr>
-  <td style="color:#00ff41;;font-family:'Consolas','SF Mono',monospace;font-size:12px;line-height:1.6;overflow-x:auto;border-right:solid;border-width:1px">Superpower</td>
-  <td style="color:#00ff41;;font-family:'Consolas','SF Mono',monospace;font-size:12px;line-height:1.6;overflow-x:auto;">Translating research → production ML systems</td>
-</tr>
-<tr>
-  <td style="color:#00ff41;;font-family:'Consolas','SF Mono',monospace;font-size:12px;line-height:1.6;overflow-x:auto;border-right:solid;border-width:1px">Favorite Problem</td>
-  <td style="color:#00ff41;;font-family:'Consolas','SF Mono',monospace;font-size:12px;line-height:1.6;overflow-x:auto;font-style:italic">It works locally but fails in production</td>
-</tr>
-<tr>
-  <td style="color:#00ff41;;font-family:'Consolas','SF Mono',monospace;font-size:12px;line-height:1.6;overflow-x:auto;border-right:solid;border-width:1px">Current Obsession</td>
-  <td style="color:#00ff41;;font-family:'Consolas','SF Mono',monospace;font-size:12px;line-height:1.6;overflow-x:auto;">Agentic AI, RAG, MLOps, LLMOps</td>
-</tr>
-<tr>
-  <td style="color:#00ff41;;font-family:'Consolas','SF Mono',monospace;font-size:12px;line-height:1.6;overflow-x:auto;border-right:solid;border-width:1px">Saturday Night</td>
-  <td style="color:#00ff41;;font-family:'Consolas','SF Mono',monospace;font-size:12px;line-height:1.6;overflow-x:auto;">Biking, Music, or Debugging</td>
-</tr>
-</table>
-</pre>
+## MY ENGINEERING DNA
+
+| | |
+|:---|:---|
+| **Core Philosophy** | Build reliable systems · Ship fast · Learn faster |
+| **Superpower** | Translating research → production ML systems |
+| **Favorite Problem** | *It works locally but fails in production* |
+| **Current Obsession** | Agentic AI, RAG, MLOps, LLMOps |
+| **Saturday Night** | Biking, Music, or Debugging |
 
 ---
 
-<pre style="background:#0a0f0a;color:#00ff41;padding:20px;border:1px solid #00ff41;border-radius:0px;font-family:'Consolas','SF Mono',monospace;font-size:12px;line-height:1.6;
-overflow-x:auto;width:100%">
-<span style="text-transform:uppercase;font-size:16px;overflow-x:auto;">
-My Toolbox
-</span>
-<span style="display:flex;align-items:center;color:#DDD;text-transform:uppercase;font-family:'Consolas','SF Mono',monospace;font-size:12px;line-height:2;overflow-x:auto;">
-Languages, Programming & Development
-</span>
-<div style="display:flex;gap:8px">
-<span style="padding:4px 12px 4px 12px;font-size:12px;color:#00ff41;background-color:#000000;border-style:solid;border-width:1px;border-color:#00ff41;border-radius:0px">Python</span>
-<span style="padding:4px 12px 4px 12px;font-size:12px;color:#00ff41;background-color:#000000;border-style:solid;border-width:1px;border-color:#00ff41;border-radius:0px">TypeScript</span>
-<span style="padding:4px 12px 4px 12px;font-size:12px;color:#00ff41;background-color:#000000;border-style:solid;border-width:1px;border-color:#00ff41;border-radius:0px">JavaScript</span>
-<span style="padding:4px 12px 4px 12px;font-size:12px;color:#00ff41;background-color:#000000;border-style:solid;border-width:1px;border-color:#00ff41;border-radius:0px">SQL</span>
-<span style="padding:4px 12px 4px 12px;font-size:12px;color:#00ff41;background-color:#000000;border-style:solid;border-width:1px;border-color:#00ff41;border-radius:0px">Bash</span>
-<span style="padding:4px 12px 4px 12px;font-size:12px;color:#00ff41;background-color:#000000;border-style:solid;border-width:1px;border-color:#00ff41;border-radius:0px">C/C++</span>
-</div>
-<span style="display:flex;align-items:center;color:#DDD;text-transform:uppercase;font-family:'Consolas','SF Mono',monospace;font-size:12px;line-height:2;overflow-x:auto;">
-Frontend Playground
-</span>
-<div style="display:flex;gap:8px">
-<span style="padding:4px 12px 4px 12px;font-size:12px;color:#00ff41;background-color:#000000;border-style:solid;border-width:1px;border-color:#00ff41;border-radius:0px">React</span>
-<span style="padding:4px 12px 4px 12px;font-size:12px;color:#00ff41;background-color:#000000;border-style:solid;border-width:1px;border-color:#00ff41;border-radius:0px">Next.js</span>
-<span style="padding:4px 12px 4px 12px;font-size:12px;color:#00ff41;background-color:#000000;border-style:solid;border-width:1px;border-color:#00ff41;border-radius:0px">Nuxt.js</span>
-<span style="padding:4px 12px 4px 12px;font-size:12px;color:#00ff41;background-color:#000000;border-style:solid;border-width:1px;border-color:#00ff41;border-radius:0px">Vue.js</span>
-<span style="padding:4px 12px 4px 12px;font-size:12px;color:#00ff41;background-color:#000000;border-style:solid;border-width:1px;border-color:#00ff41;border-radius:0px">Angular</span>
-</div>
-<span style="display:flex;align-items:center;color:#DDD;text-transform:uppercase;font-family:'Consolas','SF Mono',monospace;font-size:12px;line-height:2;overflow-x:auto;">
-Cloud & Infrastructure
-</span>
-<div style="display:flex;gap:8px">
-<span style="padding:4px 12px 4px 12px;font-size:12px;color:#00ff41;background-color:#000000;border-style:solid;border-width:1px;border-color:#00ff41;border-radius:0px">AWS</span>
-<span style="padding:4px 12px 4px 12px;font-size:12px;color:#00ff41;background-color:#000000;border-style:solid;border-width:1px;border-color:#00ff41;border-radius:0px">GCP</span>
-<span style="padding:4px 12px 4px 12px;font-size:12px;color:#00ff41;background-color:#000000;border-style:solid;border-width:1px;border-color:#00ff41;border-radius:0px">Terraform</span>
-<span style="padding:4px 12px 4px 12px;font-size:12px;color:#00ff41;background-color:#000000;border-style:solid;border-width:1px;border-color:#00ff41;border-radius:0px">Docker</span>
-<span style="padding:4px 12px 4px 12px;font-size:12px;color:#00ff41;background-color:#000000;border-style:solid;border-width:1px;border-color:#00ff41;border-radius:0px">Kubernetes</span>
-<span style="padding:4px 12px 4px 12px;font-size:12px;color:#00ff41;background-color:#000000;border-style:solid;border-width:1px;border-color:#00ff41;border-radius:0px">Jenkins</span>
-<span style="padding:4px 12px 4px 12px;font-size:12px;color:#00ff41;background-color:#000000;border-style:solid;border-width:1px;border-color:#00ff41;border-radius:0px">GitHub</span>
-<span style="padding:4px 12px 4px 12px;font-size:12px;color:#00ff41;background-color:#000000;border-style:solid;border-width:1px;border-color:#00ff41;border-radius:0px">Vercel</span>
-</div>
-<span style="display:flex;align-items:center;color:#DDD;text-transform:uppercase;font-family:'Consolas','SF Mono',monospace;font-size:12px;line-height:2;overflow-x:auto;">
-Data & ML Stack
-</span>
-<div style="display:flex;gap:8px">
-<span style="padding:4px 12px 4px 12px;font-size:12px;color:#00ff41;background-color:#000000;border-style:solid;border-width:1px;border-color:#00ff41;border-radius:0px">PostgreSQL</span>
-<span style="padding:4px 12px 4px 12px;font-size:12px;color:#00ff41;background-color:#000000;border-style:solid;border-width:1px;border-color:#00ff41;border-radius:0px">MongoDB</span>
-<span style="padding:4px 12px 4px 12px;font-size:12px;color:#00ff41;background-color:#000000;border-style:solid;border-width:1px;border-color:#00ff41;border-radius:0px">scikit-learn</span>
-<span style="padding:4px 12px 4px 12px;font-size:12px;color:#00ff41;background-color:#000000;border-style:solid;border-width:1px;border-color:#00ff41;border-radius:0px">PyTorch</span>
-<span style="padding:4px 12px 4px 12px;font-size:12px;color:#00ff41;background-color:#000000;border-style:solid;border-width:1px;border-color:#00ff41;border-radius:0px">Pandas</span>
-</div>
-<span style="display:flex;align-items:center;color:#00ff41;text-transform:uppercase;font-family:'Consolas','SF Mono',monospace;font-size:12px;line-height:2;overflow-x:auto;">
-AWS Services I've Used in Production
-</span>
-<div style="display:flex;gap:8px">
-<span style="color:#DDD;padding:4px 12px 4px 12px;font-size:12px;border-style:solid;border-width:1px;border-color:#DDD;border-radius:0px">IAM</span>
-<span style="color:#DDD;padding:4px 12px 4px 12px;font-size:12px;border-style:solid;border-width:1px;border-color:#DDD;border-radius:0px">EC2</span>
-<span style="color:#DDD;padding:4px 12px 4px 12px;font-size:12px;border-style:solid;border-width:1px;border-color:#DDD;border-radius:0px">S3</span>
-<span style="color:#DDD;padding:4px 12px 4px 12px;font-size:12px;border-style:solid;border-width:1px;border-color:#DDD;border-radius:0px">CloudWatch</span>
-<span style="color:#DDD;padding:4px 12px 4px 12px;font-size:12px;border-style:solid;border-width:1px;border-color:#DDD;border-radius:0px">CloudTrail</span>
-<span style="color:#DDD;padding:4px 12px 4px 12px;font-size:12px;border-style:solid;border-width:1px;border-color:#DDD;border-radius:0px">CloudFormation</span>
-<span style="color:#DDD;padding:4px 12px 4px 12px;font-size:12px;border-style:solid;border-width:1px;border-color:#DDD;border-radius:0px">Lambda</span>
-<span style="color:#DDD;padding:4px 12px 4px 12px;font-size:12px;border-style:solid;border-width:1px;border-color:#DDD;border-radius:0px">Secrets Manager</span>
-<span style="color:#DDD;padding:4px 12px 4px 12px;font-size:12px;border-style:solid;border-width:1px;border-color:#DDD;border-radius:0px">Firewall</span>
-<span style="color:#DDD;padding:4px 12px 4px 12px;font-size:12px;border-style:solid;border-width:1px;border-color:#DDD;border-radius:0px">Policies</span>
-</div>
-<span style="display:flex;align-items:center;color:#00ff41;text-transform:uppercase;font-family:'Consolas','SF Mono',monospace;font-size:12px;line-height:2;overflow-x:auto;">
-GCP Services I've Used in Production
-</span>
-<div style="display:flex;gap:8px">
-<span style="color:#DDD;padding:4px 12px 4px 12px;font-size:12px;border-style:solid;border-width:1px;border-color:#DDD;border-radius:0px">Compute Engine</span>
-<span style="color:#DDD;padding:4px 12px 4px 12px;font-size:12px;border-style:solid;border-width:1px;border-color:#DDD;border-radius:0px">Artifact Registry</span>
-<span style="color:#DDD;padding:4px 12px 4px 12px;font-size:12px;border-style:solid;border-width:1px;border-color:#DDD;border-radius:0px">Firewall Rules Manager</span>
-<span style="color:#DDD;padding:4px 12px 4px 12px;font-size:12px;border-style:solid;border-width:1px;border-color:#DDD;border-radius:0px">Cloud SQL</span>
-<span style="color:#DDD;padding:4px 12px 4px 12px;font-size:12px;border-style:solid;border-width:1px;border-color:#DDD;border-radius:0px">Firestore</span>
-</div>
-</pre>
+## MY TOOLBOX
+
+**LANGUAGES, PROGRAMMING & DEVELOPMENT**
+
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00ff41)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=00ff41)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=00ff41)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=00ff41)
+![Bash](https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnubash&logoColor=00ff41)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-000000?style=flat-square&logo=cplusplus&logoColor=00ff41)
+
+**FRONTEND PLAYGROUND**
+
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=00ff41)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=00ff41)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-000000?style=flat-square&logo=nuxtdotjs&logoColor=00ff41)
+![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=flat-square&logo=vuedotjs&logoColor=00ff41)
+![Angular](https://img.shields.io/badge/Angular-000000?style=flat-square&logo=angular&logoColor=00ff41)
+
+**CLOUD & INFRASTRUCTURE**
+
+![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonwebservices&logoColor=00ff41)
+![GCP](https://img.shields.io/badge/GCP-000000?style=flat-square&logo=googlecloud&logoColor=00ff41)
+![Terraform](https://img.shields.io/badge/Terraform-000000?style=flat-square&logo=terraform&logoColor=00ff41)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=00ff41)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=00ff41)
+![Jenkins](https://img.shields.io/badge/Jenkins-000000?style=flat-square&logo=jenkins&logoColor=00ff41)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=00ff41)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=00ff41)
+
+**DATA & ML STACK**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=00ff41)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=00ff41)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=00ff41)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=00ff41)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=00ff41)
+
+**AWS SERVICES I'VE USED IN PRODUCTION**
+
+![IAM](https://img.shields.io/badge/IAM-1a1a1a?style=flat-square&labelColor=1a1a1a&color=1a1a1a)
+![EC2](https://img.shields.io/badge/EC2-1a1a1a?style=flat-square)
+![S3](https://img.shields.io/badge/S3-1a1a1a?style=flat-square)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-1a1a1a?style=flat-square)
+![CloudTrail](https://img.shields.io/badge/CloudTrail-1a1a1a?style=flat-square)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-1a1a1a?style=flat-square)
+![Lambda](https://img.shields.io/badge/Lambda-1a1a1a?style=flat-square)
+![Secrets Manager](https://img.shields.io/badge/Secrets_Manager-1a1a1a?style=flat-square)
+![Firewall](https://img.shields.io/badge/Firewall-1a1a1a?style=flat-square)
+![Policies](https://img.shields.io/badge/Policies-1a1a1a?style=flat-square)
+
+**GCP SERVICES I'VE USED IN PRODUCTION**
+
+![Compute Engine](https://img.shields.io/badge/Compute_Engine-1a1a1a?style=flat-square)
+![Artifact Registry](https://img.shields.io/badge/Artifact_Registry-1a1a1a?style=flat-square)
+![Firewall Rules Manager](https://img.shields.io/badge/Firewall_Rules_Manager-1a1a1a?style=flat-square)
+![Cloud SQL](https://img.shields.io/badge/Cloud_SQL-1a1a1a?style=flat-square)
+![Firestore](https://img.shields.io/badge/Firestore-1a1a1a?style=flat-square)
 
 ---
 
-<pre style="background:#0a0f0a;color:#00ff41;padding:20px;border:1px solid #00ff41;border-radius:0px;font-family:'Consolas','SF Mono',monospace;font-size:12px;line-height:1.6;
-overflow-x:auto;width:100%">
-<span style="text-transform:uppercase;font-size:16px;overflow-x:auto;">
-What am I working on?
-</span>
-<span style="color:#00ff41">┌──(ojaswiat@github)-[~/profile]</span>
-<span style="color:#00ff41">└─$</span> <span style="color:#ffff00">cat current_focus.md</span>
-<pre style="background:#2f2f2f;margin-top:8px;border-radius:0px">
+## WHAT AM I WORKING ON?
+
+```console
+┌──(ojaswiat@github)-[~/profile]
+└─$ cat current_focus.md
+```
+
+```markdown
 ▸ Agentic AI / RAG / LLM Tooling
 ▸ M.Sc. Advanced Data Science & AI @ Liverpool
 ▸ Production ML systems & MLOps
 ▸ Roles Seeking: ML Engineer, AI Engineer, AI Ops Engineer, Agentic AI Engineer
-</pre>
-</pre>
+```
 
 ---
 
-<pre style="background:#0a0f0a;color:#00ff41;padding:20px;border:1px solid #00ff41;border-radius:0px;font-family:'Consolas','SF Mono',monospace;font-size:12px;line-height:1.6;
-overflow-x:auto;width:100%">
-<span style="text-transform:uppercase;font-size:16px;overflow-x:auto;">
-My Hobbies!
-</span>
-<span style="color:#00ff41">┌──(ojaswiat@github)-[~/profile]</span>
-<span style="color:#00ff41">└─$</span> <span style="color:#ffff00">cat hobbies.yaml</span>
-<pre style="background:#2f2f2f;margin-top:8px;border-radius:0px">
+## MY HOBBIES!
+
+```console
+┌──(ojaswiat@github)-[~/profile]
+└─$ cat hobbies.yaml
+```
+
+```yaml
 hobbies:
   - "Biking & Hiking"
   - "Music (production, listening)"
@@ -224,34 +189,32 @@ learning:
   - "Agentic AI / RAG / LLM Tooling"
   - "Advanced ML (RL, Swarm Intelligence)"
   - "Data Science at scale"
-</pre>
-</pre>
+```
 
 ---
 
-<pre style="background:#0a0f0a;color:#00ff41;padding:20px;border:1px solid #00ff41;border-radius:0px;font-family:'Consolas','SF Mono',monospace;font-size:12px;line-height:1.6;
-overflow-x:auto;width:100%">
-<span style="text-transform:uppercase;font-size:16px;overflow-x:auto;">
-Contact Me!
-</span>
-<span style="color:#00ff41">┌──(ojaswiat@github)-[~/profile]</span>
-<span style="color:#00ff41">└─$</span> <span style="color:#ffff00">cat contacts.txt</span>
-<pre style="background:#2f2f2f;margin-top:8px;border-radius:0px">
-<p style="line-height:1">Open to full-time, contract, and interesting collaborations.</p>
-<p style="line-height:1">I'm looking for opportunities in the following roles:</p>
-<ul>
-<li style="line-height:1">MLOps Engineer</li>
-<li style="line-height:1">Agentic AI Engineer</li>
-</ul>
-<span style="display:flex;gap:16px;align-items:center;justify-content:center;font-size:12px">
-<a style="color:#00ff41" href="https://ojaswiat.com">Website</a> ·
-<a style="color:#00ff41" href="https://linkedin.com/in/ojaswiat">LinkedIn</a> ·
-<a style="color:#00ff41" href="https://ojaswiat.com/blog">Blog</a> ·
-<a style="color:#00ff41" href="mailto:ojaswiat@gmail.com">Mail</a>
-</span>
-</pre>
-</pre>
+## CONTACT ME!
 
-<img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=00ff41&text=Thanks%20for%20scrolling%20this%20far...%20%20You're%20awesome!&section=footer&fontSize=14&reversal=true&fontAlignY=70" alt="Footer Wave">
+```console
+┌──(ojaswiat@github)-[~/profile]
+└─$ cat contacts.txt
 
----
+Open to full-time, contract, and interesting collaborations.
+I'm looking for opportunities in the following roles:
+
+> MLOps Engineer
+> Agentic AI Engineer
+```
+
+
+
+<div align="center">
+
+<a href="https://ojaswiat.com"><img src="https://img.shields.io/badge/Website-0a0f0a?style=for-the-badge&logo=google-chrome&logoColor=00ff41" alt="Website" /></a>
+<a href="https://linkedin.com/in/ojaswiat"><img src="https://img.shields.io/badge/LinkedIn-0a0f0a?style=for-the-badge&logo=linkedin&logoColor=00ff41" alt="LinkedIn" /></a>
+<a href="https://ojaswiat.com/blog"><img src="https://img.shields.io/badge/Blog-0a0f0a?style=for-the-badge&logo=hashnode&logoColor=00ff41" alt="Blog" /></a>
+<a href="mailto:ojaswiat@gmail.com"><img src="https://img.shields.io/badge/Mail-0a0f0a?style=for-the-badge&logo=gmail&logoColor=00ff41" alt="Mail" /></a>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=00ff41&text=Thanks%20for%20scrolling%20this%20far...%20%20You're%20awesome!&section=footer&fontSize=14&reversal=true&fontAlignY=70" alt="Footer Wave" />
